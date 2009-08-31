@@ -1,0 +1,14 @@
+--- 2009-08-30 17:21:15.182319 -04:00
+
+--- 
+.devver/devver_opts.yml: 2009-08-30 17:21:11 -04:00
+foo_spec.rb: 2009-08-18 23:31:37 -04:00
+.devver/client_version: 2009-08-23 13:35:58 -04:00
+foo.rb: 2009-08-18 23:31:37 -04:00
+.devver/hooks/notify: 2009-08-28 12:27:29 -04:00
+.devver/hooks/prepare_database: 2009-08-23 13:32:57 -04:00
+.devver/hooks: 2009-08-30 17:20:11 -04:00
+.devver/hooks/build: 2009-08-28 12:27:29 -04:00
+.devver/project_id_old: 2009-08-28 17:42:29 -04:00
+.devver: 2009-08-30 17:16:38 -04:00
+.devver/hooks/install_dependencies: 2009-08-30 17:20:11 -04:00

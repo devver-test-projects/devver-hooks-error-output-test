@@ -1,0 +1,4 @@
+--- 
+foo_spec.rb: 
+- !ruby/object:Devver::Messages::SpecFileRequest 
+  file: foo_spec.rb
